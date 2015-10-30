@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+	<!-- 边框的颜色和宽度 -->
+	<stroke android:width="2dp"
+	    android:color="#000000"/>
+	<!-- 渐变色效果 -->
+	<gradient android:startColor="#99CCCC"
+	    android:endColor="#FFFFCC"
+	    android:angle="270"/>
+	<!-- 边距 -->
+	<padding android:left="5dp"
+	    android:top="5dp"
+	    android:right="5dp"
+	    android:bottom="5dp"/>
+</shape>
